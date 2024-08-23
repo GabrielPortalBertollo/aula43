@@ -1,0 +1,7 @@
+.links:hover{
+border-bottom: 1px solid #acacac;
+cursor: pointer;
+}
+.links{
+    margin:0 2%;
+}
